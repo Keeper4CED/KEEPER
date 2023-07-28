@@ -11,5 +11,5 @@ This directory contains the data set used to train different prediction models. 
 This directory contains our online appendix, which is used to give some introductions, definitions, and illustrative examples.
 
 # IG 
-This directory contains our online appendix, which is used to give some introductions, definitions, and illustrative examples.
+This directory contains the IG results.
 
