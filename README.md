@@ -13,6 +13,3 @@ This directory contains our online appendix, which is used to give some introduc
 # IG 
 This directory contains our online appendix, which is used to give some introductions, definitions, and illustrative examples.
 
-# Results
-This directory contains the results that we obtained in the experiments.
-
